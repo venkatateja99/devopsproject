@@ -1,5 +1,7 @@
 hello this is a sample file in devops
+<<<<<<< HEAD
 2nd line add
+=======
 dsfgasdfgsd
 sdfgsdfgsd
 sdg
@@ -12,4 +14,5 @@ g
 ds
 gsd
 g
-
+sd
+>>>>>>> a99bb29acfc15d5c602092cfe6415ab35b1b99ab
