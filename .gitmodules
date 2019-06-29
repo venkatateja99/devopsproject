@@ -1,0 +1,3 @@
+[submodule "ansible-palybooks"]
+	path = ansible-palybooks
+	url = https://github.com/venkatateja99/devopsproject.git
